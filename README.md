@@ -118,7 +118,7 @@
 ```
 ### Installation 🛠️
 
-1. `git clone https://github.com/ManofDiligence/solana-memecoin-cli.git`
+1. `git clone https://github.com/0xTan1319/solana-memecoin-cli.git`
 2. `cd solana-memecoin-cli`
 3. `nvm install v22.2.0`
 4. `nvm use v22.2.0`
@@ -293,3 +293,7 @@ node sell --token_address <ADDRESS_TOKEN> --percentage <SELL_PERCENTAGE>
 ### It is a work in progress, if you have any suggestions or any problems, please let us know!
 
 ### Stay tuned for the updates.🤖_**
+
+## Contact
+
+If you have question or other suggestion, contact here: [@shiny1319](https://t.me/shiny0103)
